@@ -6,20 +6,38 @@
     "oauth",
     "oauth2"
   ],
-  "contributors": [
-    { "name": "Thom Seddon", "email": "thom@seddonmedia.co.uk" },
-    { "name": "Lars F. Karlström" , "email": "lars@lfk.io" },
-    { "name": "Rui Marinho", "email": "ruipmarinho@gmail.com" },
-    { "name" : "Tiago Ribeiro", "email": "tiago.ribeiro@gmail.com" },
-    { "name": "Michael Salinger", "email": "mjsalinger@gmail.com" },
-    { "name": "Nuno Sousa" },
-    { "name": "Max Truxa" }
+  "contributors": [{
+      "name": "Thom Seddon",
+      "email": "thom@seddonmedia.co.uk"
+    },
+    {
+      "name": "Lars F. Karlström",
+      "email": "lars@lfk.io"
+    },
+    {
+      "name": "Rui Marinho",
+      "email": "ruipmarinho@gmail.com"
+    },
+    {
+      "name": "Tiago Ribeiro",
+      "email": "tiago.ribeiro@gmail.com"
+    },
+    {
+      "name": "Michael Salinger",
+      "email": "mjsalinger@gmail.com"
+    },
+    {
+      "name": "Nuno Sousa"
+    },
+    {
+      "name": "Max Truxa"
+    }
   ],
   "main": "index.js",
   "dependencies": {
     "basic-auth": "1.1.0",
     "bluebird": "3.5.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.11",
     "promisify-any": "2.0.1",
     "statuses": "1.3.1",
     "type-is": "1.6.15"
